@@ -7,7 +7,7 @@ package 'ntp' do
 end
 
 file '/Users/ramansharma/Documents/teraform/terraform-beginner-to-advanced-resource/Testing/chef/motd' do
- content 'property'
+ content 'propets changingty'
  mode '0644'
  action :create
 end
